@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Rubik+Beastly&display=swap');
+
+
+.div1{
+    background-color: rgb(113, 161, 202);
+}
+
+h1{color: black;
+    text-align: center;
+    font-family: "Century Gothic",Verdana, sans-serif;
+    
+
+}
+
+h2{ font-family: 'Oswald', sans-serif;
+    text-align: right;
+    color: white;
+    letter-spacing: 3px;
+
+}
+
+.sp{ background-color: rgb(193, 169, 214) ;
+
+}
+#ho{
+    color:white;
+    text-align: center;
+    font-family: "Century Gothic",Verdana, sans-serif;
+    letter-spacing: 0px; 
+}
+pre{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:wheat;
+}
+.f{
+    color:rgb(73, 73, 184)
+}
+.p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
